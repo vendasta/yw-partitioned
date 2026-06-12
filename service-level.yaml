@@ -1,0 +1,6 @@
+services:
+  - name: yw-partitioned
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "Postgres database table partitioning support for Rails"
